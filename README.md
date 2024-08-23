@@ -3,12 +3,12 @@
 
 # About Me
 
-I am a dedicated AI student currently in my third year at the Arab Academy for Science, Technology & Maritime Transport (AASTMT). My area of specialization is intelligent systems, with a focus on robotics. In particular, I am deeply involved in the field of robotics perception.
+I am a dedicated AI student currently in my last year at AASTMT) My area of specialization is intelligent systems, with a focus on robotics. In particular, I am deeply involved in the field of robotics perception.
 
 ## Academic Background
 
 - **Institution:** Arab Academy for Science, Technology & Maritime Transport (AASTMT)
-- **Year:** 3rd Year
+- **Year:** 4th Year
 
 ## Area of Specialization
 
