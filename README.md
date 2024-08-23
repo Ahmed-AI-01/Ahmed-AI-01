@@ -1,3 +1,6 @@
+# HELLO HELLO
+![DARKSIDE](hello_tothe_darkside.gif)
+
 # About Me
 
 I am a dedicated AI student currently in my third year at the Arab Academy for Science, Technology & Maritime Transport (AASTMT). My area of specialization is intelligent systems, with a focus on robotics. In particular, I am deeply involved in the field of robotics perception.
